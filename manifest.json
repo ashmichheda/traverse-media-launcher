@@ -1,7 +1,7 @@
 {
 	"manifest_version" : 2,
 	"name" : "Traverse Launcher",
-	"description" : "Quick Launch of media applications",
+	"description" : "Easy accessibility of media applications",
 	"version" : "1.0.0",
 	"icons" : {"128" : "icon_128.png"},
 	"browser_action" : {
